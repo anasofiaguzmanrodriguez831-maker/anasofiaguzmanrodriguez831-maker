@@ -2,7 +2,6 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Perfil Sofía</title>
   <link rel="stylesheet" href="diseño.css">
 </head>
 <body>
