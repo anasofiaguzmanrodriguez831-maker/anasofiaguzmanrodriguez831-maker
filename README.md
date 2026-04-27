@@ -1,48 +1,68 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <link rel="stylesheet" href="diseño.css">
-</head>
-<body>
+# 👋 Hola, soy Sofía Guzmán Rodríguez  
 
-<header>
-  <h1>👋 Hola, soy Sofía Guzmán Rodríguez</h1>
-  <p>💻 Análisis y Desarrollo de Software</p>
-</header>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anasofiaguzmanrodriguez831-maker&color=blue" />
+  <img src="https://img.shields.io/github/followers/anasofiaguzmanrodriguez831-maker?style=social" />
+</p>
 
-<section class="perfil">
-  <div class="texto">
-    <h2>💼 Sobre mí</h2>
-    <p>Aprendiz en desarrollo de software, enfocada en crear soluciones eficientes y creativas.</p>
-    <p>Apasionada por aprender y mejorar cada día.</p>
-  </div>
+<img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-  <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" alt="programando">
-</section>
+---
 
-<section class="tecnologias">
-  <h2>🧠 Tecnologías</h2>
-  <div class="tech">
-    <span>Java</span>
-    <span>HTML</span>
-    <span>CSS</span>
-    <span>JavaScript</span>
-    <span>SQL</span>
-    <span>GitHub</span>
-  </div>
-</section>
+## 💼 Perfil Profesional  
 
-<section class="proyecto">
-  <h2>🚀 Proyecto</h2>
-  <a href="https://github.com/anasofiaguzmanrodriguez831-maker/Beauty_Boots" target="_blank">
-    Ver Beauty Boots
+💻 Aprendiz en **Análisis y Desarrollo de Software**  
+🚀 Enfocada en el desarrollo de soluciones eficientes, escalables y bien estructuradas  
+📚 En constante aprendizaje para fortalecer mis habilidades técnicas y lógicas  
+🎯 Interesada en oportunidades para crecer como desarrolladora  
+
+---
+
+## 🧠 Tecnologías y Herramientas  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,github" />
+</p>
+
+---
+
+## 🚀 Proyecto Destacado  
+
+<p align="center">
+  <a href="https://github.com/anasofiaguzmanrodriguez831-maker/Beauty_Boots">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anasofiaguzmanrodriguez831-maker&repo=Beauty_Boots&theme=tokyonight" />
   </a>
-</section>
+</p>
 
-<footer>
-  <p>✨ Gracias por visitar ✨</p>
-</footer>
+---
 
-</body>
-</html>
+## 📈 Estadísticas  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasofiaguzmanrodriguez831-maker&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anasofiaguzmanrodriguez831-maker&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasofiaguzmanrodriguez831-maker&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌱 Actualmente  
+
+- Fortaleciendo conocimientos en **Java, JavaScript y SQL**  
+- Desarrollando proyectos prácticos  
+- Mejorando lógica de programación y estructura de código  
+
+---
+
+## 📫 Contacto  
+
+📧 Próximamente...  
+
+---
+
+<p align="center">
+✨ Gracias por visitar mi perfil ✨
+</p>
