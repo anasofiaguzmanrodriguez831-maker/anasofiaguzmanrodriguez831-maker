@@ -1,42 +1,47 @@
 # 👋 Hola, soy Sofía Guzmán Rodríguez  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anasofiaguzmanrodriguez831-maker&color=blue" />
-  <img src="https://img.shields.io/github/followers/anasofiaguzmanrodriguez831-maker?style=social" />
-</p>
+![Visitas](https://komarev.com/ghpvc/?username=anasofiaguzmanrodriguez831-maker&color=blue)
+[![Seguidores](https://img.shields.io/github/followers/anasofiaguzmanrodriguez831-maker?style=social)](https://github.com/anasofiaguzmanrodriguez831-maker)
 
-<img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img align="right" width="250" src= "https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"/>
 
 ---
 
-## 💼 Perfil Profesional  
+## 💫 Sobre mí  
 
-💻 Aprendiz en **Análisis y Desarrollo de Software**  
-🚀 Enfocada en el desarrollo de soluciones eficientes, escalables y bien estructuradas  
-📚 En constante aprendizaje para fortalecer mis habilidades técnicas y lógicas  
-🎯 Interesada en oportunidades para crecer como desarrolladora  
+💻 Soy aprendiz en **Análisis y Desarrollo de Software**   
+📚 Apasionada por aprender y mejorar cada día como desarrolladora  
 
 ---
 
-## 🧠 Tecnologías y Herramientas  
+## 🧠 Tecnologías  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,github" />
-</p>
-
----
-
-## 🚀 Proyecto Destacado  
-
-<p align="center">
-  <a href="https://github.com/anasofiaguzmanrodriguez831-maker/Beauty_Boots">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anasofiaguzmanrodriguez831-maker&repo=Beauty_Boots&theme=tokyonight" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
-## 📈 Estadísticas  
+## 🌱 Actualmente  
+
+- Fortaleciendo conocimientos en **Java, JavaScript y SQL**  
+- Creando proyectos prácticos para mejorar mi lógica de programación  
+
+---
+
+## 🚀 Proyecto destacado  
+
+<a href="https://github.com/anasofiaguzmanrodriguez831-maker/Beauty_Boots">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anasofiaguzmanrodriguez831-maker&repo=Beauty_Boots&theme=tokyonight" />
+</a>
+
+---
+
+## 📊 Estadísticas  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasofiaguzmanrodriguez831-maker&theme=tokyonight" />
@@ -49,20 +54,4 @@
 
 ---
 
-## 🌱 Actualmente  
-
-- Fortaleciendo conocimientos en **Java, JavaScript y SQL**  
-- Desarrollando proyectos prácticos  
-- Mejorando lógica de programación y estructura de código  
-
----
-
-## 📫 Contacto  
-
-📧 Próximamente...  
-
----
-
-<p align="center">
-✨ Gracias por visitar mi perfil ✨
-</p>
+✨ *Gracias por visitar mi perfil* ✨
